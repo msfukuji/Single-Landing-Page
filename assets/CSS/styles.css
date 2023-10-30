@@ -287,15 +287,14 @@
     .intro-content,
     .main-content,
     .grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
         display: flex;
-        flex-flow: column nowrap;
+        flex-flow: column wrap;
     }
 
     .gallery-img {
-        width: 100%;
-        max-width: 100%;
-        max-height: 100%;
+        max-width: 40%;
+        max-height: 40%;
     }
 
     .contact-img img {
@@ -323,6 +322,8 @@
 
     .menu-content {
         height: 100vh;
+        margin-top: 1.5rem;
+        line-height: 1.5rem;
     }
 
     .menu {
@@ -333,8 +334,8 @@
         content: '≡';
         position: fixed;
         z-index: 2;
-        top: 1rem;
-        right: 2rem;
+        top: 2rem;
+        right: 3rem;
         background: var(--primary-color);
         color: var(--white-color);
         font-size: 3rem;
