@@ -274,12 +274,12 @@
     }
 }
 
-@media (min-width:375px) and (max-width: 499px) {
+@media (max-width: 499px) {
     html {
-        font-size: 30%;
+        font-size: 40%;
     }
 
-    h1 {
+    /* h1 {
         font-size: 2rem;
         text-transform: uppercase;
     }
@@ -289,5 +289,5 @@
         margin-bottom: 5rem;
         text-transform: uppercase;
         line-height: 1.2;
-    }
+    } */
 }
