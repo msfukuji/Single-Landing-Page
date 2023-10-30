@@ -197,7 +197,7 @@
     transform: rotate(-90deg);
 }
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
     .intro-content,
     .main-content,
     .grid {
