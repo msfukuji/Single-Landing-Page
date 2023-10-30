@@ -267,7 +267,10 @@
 }
 
 @media (min-width:375px) and (max-width: 799px) {
-    .intro-text-content h2 {
+    h2 {
+        font-size: 2.5rem;
+    }
+    /* .intro-text-content h2 {
         font-size: 3rem;
     }
     .top3-content h2 {
@@ -278,7 +281,7 @@
     }
     .grid-one-content h2 {
         font-size: 3rem;
-    }
+    } */
 }
 
 
