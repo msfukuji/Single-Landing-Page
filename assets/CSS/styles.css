@@ -276,8 +276,8 @@
         font-size: 1rem;
     }
 
-    .intro-content,
-    .main-content {
+    .intro-content
+    /* .main-content */ {
         display: block;
     }
 
