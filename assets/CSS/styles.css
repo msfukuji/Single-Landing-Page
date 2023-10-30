@@ -268,48 +268,8 @@
 }
 
 @media (min-width:375px) and (max-width: 499px) {
-    h2 {
-        font-size: 1.5rem;
-    }
-
-    p {
-        font-size: 1rem;
-    }
-
-    .intro-content
-    /* .main-content */ {
-        display: block;
-    }
-
-    /* .intro-text-content h2 {
-        font-size: 3rem;
-    }
-    .top3-content h2 {
-        font-size: 3rem;
-    }
-    .grid-main-heading h2 {
-        font-size: 3rem;
-    }
-    .grid-one-content h2 {
-        font-size: 3rem;
-    } */
-}
-
-
-/* @media (min-width: 569px) and (max-width: 768px) {
-    .grid .col {
-        width: 50%;
+    html {
+        font-size: 30%;
+        scroll-behavior: smooth;
     }
 }
-
-@media (min-width: 769px) and (max-width: 1200px) {
-    .grid .col {
-        width: 33.33%;
-    }
-}
-
-@media (min-width: 1200px) {
-    .grid .col {
-        width: 25%;
-    }
-} */
