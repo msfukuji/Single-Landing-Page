@@ -197,7 +197,7 @@
     transform: rotate(-90deg);
 }
 
-@media (min-width: 500px) and (max-width: 800px) {
+@media (max-width: 800px) {
     .intro-content,
     .main-content,
     .grid {
@@ -277,16 +277,4 @@
     html {
         font-size: 40%;
     }
-
-    /* h1 {
-        font-size: 2rem;
-        text-transform: uppercase;
-    }
-
-    h2 {
-        font-size: 2rem;
-        margin-bottom: 5rem;
-        text-transform: uppercase;
-        line-height: 1.2;
-    } */
 }
