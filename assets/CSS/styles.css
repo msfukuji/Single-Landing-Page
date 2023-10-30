@@ -268,16 +268,16 @@
 
 @media (min-width:375px) and (max-width: 799px) {
     .intro-text-content h2 {
-        font-size: 5rem;
+        font-size: 3rem;
     }
     .top3-content h2 {
-        font-size: 5rem;
+        font-size: 3rem;
     }
     .grid-main-heading h2 {
-        font-size: 5rem;
+        font-size: 3rem;
     }
     .grid-one-content h2 {
-        font-size: 5rem;
+        font-size: 3rem;
     }
 }
 
