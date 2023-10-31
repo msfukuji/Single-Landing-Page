@@ -280,7 +280,7 @@
     }
 }
 
-@media handheld, (orientation: landscape) and (min-width: 500px){
+@media handheld and (orientation: landscape) and (min-width: 500px){
     html {
         font-size: 50%;
     }
