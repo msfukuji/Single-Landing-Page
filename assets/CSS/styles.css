@@ -280,7 +280,7 @@
     }
 }
 
-@media (orientation: landscape) and (min-width: 1200px ) {
+/* @media (orientation: landscape) {
     html {
         font-size: 50%;
     }
@@ -366,4 +366,4 @@
     .menu-spacing {
         display: none;
     }
-}
+} */
